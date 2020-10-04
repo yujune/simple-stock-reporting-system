@@ -1,4 +1,10 @@
 # simple-stock-reporting-system
 
-## Jaeger 360 view
-![Jaeger 360](https://github.com/yujune/Jaeger-Robot/blob/main/jaeger_screenshot/jaeger360.gif)
+## Add stock
+![add](https://github.com/yujune/simple-stock-reporting-system/blob/main/screenshot/add.gif)
+
+## Delete stock
+![add](https://github.com/yujune/simple-stock-reporting-system/blob/main/screenshot/delete.gif)
+
+## Edit stock
+![add](https://github.com/yujune/simple-stock-reporting-system/blob/main/screenshot/edit.gif)
